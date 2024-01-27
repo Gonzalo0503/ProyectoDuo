@@ -15,6 +15,7 @@ public class HolaDAM {
      */
     public static void main(String[] args) {
         System.out.println("Esto es la práctica de git en netbeans");
+        System.out.println("Este archivo ha sido modificado por el 1er desarrollador.");
     }
     
 }
